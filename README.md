@@ -7,7 +7,15 @@ The basic idea is that only the place icons are replaced and all other icons are
 The colours used are from the GNOME HIG Colors palette by Incscape.
 
 ## Install
+Open a terminal and clone the repository:
+```
+mkdir -p ~/.icons
+cd ~/.icons
+git clone https://github.com/MrReSc/Nice-Places-Dark.git
+```
+Now open `gnome-tweak-tool` and change the icon theme.
 
 ## Screenshot
 
+![](screenshots/screenshot_1.png)
 
