@@ -1,0 +1,18 @@
+[Icon Theme]
+Name=Blue-Folders
+Comment=Just nice places for Adwaita
+
+Inherits=Adwaita,hicolor
+
+Example=folder
+
+Directories=places/16
+
+########## Places
+
+[places/16]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=512
+Type=Scalable
